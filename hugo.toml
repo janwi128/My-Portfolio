@@ -1,0 +1,5 @@
+theme = "hugo-profile" 
+baseURL = "https://janwi128.github.io/My-Portfolio/"
+languageCode = "en-us"
+title = "Janwi Yadav - Portfolio"
+   
