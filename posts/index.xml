@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Janwi Yadav - Portfolio</title>
+    <link>https://janwi128.github.io/My-Portfolio/posts/</link>
+    <description>Recent content in Posts on Janwi Yadav - Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Sep 2025 11:38:54 +0530</lastBuildDate>
+    <atom:link href="https://janwi128.github.io/My-Portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://janwi128.github.io/My-Portfolio/posts/first-post/</link>
+      <pubDate>Sun, 07 Sep 2025 11:38:54 +0530</pubDate>
+      <guid>https://janwi128.github.io/My-Portfolio/posts/first-post/</guid>
+      <description>&lt;p&gt;HELLO WORLD!&#xA;This is my first Hugo blog post.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
