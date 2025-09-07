@@ -2,4 +2,31 @@ theme = "hugo-profile"
 baseURL = "https://janwi128.github.io/My-Portfolio/"
 languageCode = "en-us"
 title = "Janwi Yadav - Portfolio"
-   
+
+[params]
+  title = "Hugo Profile "
+
+[params.profile]
+enable = true
+name = "HEY THERE, I AM JANWI"
+tagline = "Aspiring Software Engineer | Tech Enthusiast | Turning ideas into code and knowledge into growth "
+description = "I am passionate about technology, problem-solving, and building useful tools. Currently pursuing B.Tech at Amritapuri Campus, Kerala."
+
+  [params.education]
+ enable = true
+ title = "Education"
+ items = [
+   { title = "B.Tech in Computer Science and Engineering", school = { name = "Amrita Vishwa Vidyapeetham, Amritapuri Campus", url = "https://www.amrita.edu/campus/amritapuri/" }, date = "2025 - 2029" }
+]
+
+
+  [params.projects]
+    enable = true
+    title = "Projects"
+    items = [
+      { title = "LyricLounge Bot", content = "A Discord bot that fetches track info, lyrics, and manages playlists using APIs like MusicBrainz and LRClib.", badges = ["Python", "APIs", "Discord"] }
+    ]
+
+  [params.social]
+    linkedin = "https://www.linkedin.com/in/Janwiyadav"
+    github = "https://github.com/janwi128"
